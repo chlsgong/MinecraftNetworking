@@ -1,0 +1,42 @@
+﻿// Schema for data messages between client and server
+/*
+  Server to Client schema
+  {
+    "type": string,
+    "playerId": string, 
+    "x": double,
+    "y": double
+    ...
+  }
+
+  Client to Server schema
+  {
+    "type": string,
+    "playerId": string,
+    "x": double,
+    "y": double
+    ...
+  }
+*/
+
+
+// Examples
+{
+  // Server to Client format
+  "serverToClient": {
+     "type": "pos",
+     "playerId": "A1",
+     "x": 50.0,
+     "y": 75.5,
+     "etc": "..."
+  },
+
+  // Client to Server
+  "clientToServer": {
+     "type": "pos",
+     "playerId": "A1",
+     "x": 50.0,
+     "y": 75.5,
+     "etc": "..."
+   }
+}

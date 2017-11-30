@@ -1,0 +1,9 @@
+/Users/charlesgong/Documents/web_workspace/MinecraftKnockOff/MinecraftKnockOff/bin/Debug/MinecraftKnockOff.exe
+/Users/charlesgong/Documents/web_workspace/MinecraftKnockOff/MinecraftKnockOff/bin/Debug/MinecraftKnockOff.pdb
+/Users/charlesgong/Documents/web_workspace/MinecraftKnockOff/MinecraftKnockOff/bin/Debug/websocket-sharp.dll
+/Users/charlesgong/Documents/web_workspace/MinecraftKnockOff/MinecraftKnockOff/obj/x86/Debug/MinecraftKnockOff.csprojResolveAssemblyReference.cache
+/Users/charlesgong/Documents/web_workspace/MinecraftKnockOff/MinecraftKnockOff/obj/x86/Debug/MinecraftKnockOff.csproj.CoreCompileInputs.cache
+/Users/charlesgong/Documents/web_workspace/MinecraftKnockOff/MinecraftKnockOff/obj/x86/Debug/MinecraftKnockOff.exe
+/Users/charlesgong/Documents/web_workspace/MinecraftKnockOff/MinecraftKnockOff/obj/x86/Debug/MinecraftKnockOff.pdb
+/Users/charlesgong/Documents/web_workspace/MinecraftKnockOff/MinecraftKnockOff/bin/Debug/Newtonsoft.Json.dll
+/Users/charlesgong/Documents/web_workspace/MinecraftKnockOff/MinecraftKnockOff/bin/Debug/Newtonsoft.Json.xml

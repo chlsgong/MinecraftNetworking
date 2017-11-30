@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{45B6D8E2-26A8-42D7-92E6-2C43FCF1DAE0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MinecraftKnockOff/Program.cs">
+    <Files>
+      <File FileName="MinecraftKnockOff/Program.cs" Line="34" Column="17" />
+      <File FileName="MinecraftKnockOff/WebSocketClient.cs" Line="84" Column="43" />
+      <File FileName="MinecraftKnockOff/DataSchema.json" Line="15" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MinecraftKnockOff PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
