@@ -4,6 +4,8 @@ const shortid = require('shortid')
 
 function Socket(server) {
     this.wss = new WebSocket.Server({server})
+    this.heightSeed = Math.floor(Math.random() * 1000000)
+    this.biomeSeed = Math.floor(Math.random() * 1000000)
 }
 
 Socket.prototype.setUp = function() {
@@ -17,12 +19,15 @@ Socket.prototype.onConnection = function() {
         this.onMessage(ws)
         
         var newId = shortid.generate()
-        var idObject = {
-            type: 'id',
-            id: newId
+        
+        var initObject = {
+            type: 'init',
+            id: newId,
+            heightSeed: this.heightSeed,
+            biomeSeed: this.biomeSeed
         }
 
-        ws.send(JSON.stringify(idObject))
+        ws.send(JSON.stringify(initObject))
     }.bind(this))
 }
 

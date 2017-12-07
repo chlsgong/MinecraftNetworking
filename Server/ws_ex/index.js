@@ -13,6 +13,6 @@ socket.setUp()
 
 // Open server
 
-server.listen(8080, function() {
+server.listen(8080, '0.0.0.0', function() {
     console.log('Listening on %d', server.address().port);    
 })
